@@ -1,0 +1,31 @@
+p{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+body {
+  font-family: Roboto, Arial;
+  margin: 0;
+  padding-top: 80px;
+  padding-left: 96px;
+  padding-right: 24px;
+  background-color: rgb(248, 248, 248);
+}
+
+.video-title a:link, 
+.video-title a:visited {
+  color: black;
+  text-decoration: none;
+}
+
+.video-author a:link, 
+.video-author a:visited {
+  color: rgb(96, 95, 96);
+  text-decoration: none;
+}
+
+.video-author a:hover,
+.video-author a:active {
+  color: rgb(96, 95, 96);
+}
+
